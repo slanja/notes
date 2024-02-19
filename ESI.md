@@ -22,7 +22,7 @@ Doba použitelnosti musí být větší než 1 rok a cena ZdP říká 80 000,- a
 
 ### Oběžný majetek - OM
 
-Mezi materiál patří například tužky, svorky, čistící prostředky, to co se běžně ve firmě používáMezi materiál patří například tužky, svorky, čistící prostředky, to co se běžně ve firmě používá..
+Mezi materiál patří například tužky, svorky, čistící prostředky, to co se běžně ve firmě používáMezi materiál patří například tužky, svorky, čistící prostředky, to co se běžně ve firmě používá.
 
 - Zásoby = vše co můžu dát do skladu (materiál, nedokončená výroba, polotovar, výrobek, zboží)
 - Krátkodobý finanční majetek = peníze (bankovní účty, pokladna), ceniny (stravenky, poukázky, kolky, poštovní známky), krátkodobé cenné papíry (směnka, šek) 
